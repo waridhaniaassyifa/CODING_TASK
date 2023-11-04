@@ -18,11 +18,11 @@ Anda dapat menjalankan program ini dengan langkah-langkah berikut:
 1.	 Persiapkan Lingkungan Pengembangan Java:
 2.	Unduh kode program Java yang ada dalam repositori ini. Kode ini disimpan dalam file dengan nama Task2.java. lalu buka terminal atau command prompt di komputer Anda.
 2.	Arahkan terminal atau command prompt ke direktori di mana file Task2.java disimpan. Lalu Jalankan perintah berikut untuk mengkompilasi kode:  javac Task2.java
-	Setelah kompilasi selesai, jalankan program dengan perintah:
+	Setelah kompilasi selesai, jalankan program dengan perintah:
  java Task2
       Program akan meminta Anda memasukkan sebuah angka.
-	Setelah Anda memasukkan angka, program akan memberi tahu Anda apakah angka tersebut adalah positif atau negatif.
-	Program akan terus berjalan dan meminta Anda untuk memasukkan angka hingga Anda memasukkan angka nol, yang akan menghentikan program.
+	Setelah Anda memasukkan angka, program akan memberi tahu Anda apakah angka tersebut adalah positif atau negatif.
+	Program akan terus berjalan dan meminta Anda untuk memasukkan angka hingga Anda memasukkan angka nol, yang akan menghentikan program.
 
  Task 3
 
